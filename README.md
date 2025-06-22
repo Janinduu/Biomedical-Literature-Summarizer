@@ -73,3 +73,12 @@ accelerate==0.24.0
 huggingface_hub>=0.19.0
 ````
 
+
+## 🚀 Deployment
+
+### Hugging Face Spaces
+The model is deployed on Hugging Face Spaces for easy access and sharing:
+- **Space URL**: https://huggingface.co/spaces/Janinduu/biomedical_summarizer
+- **Model Hub**: https://huggingface.co/Janinduu/bart-pubmed-biomedical
+
+
