@@ -7,6 +7,10 @@
 
 An AI-powered abstractive summarization system specifically designed for biomedical research articles, leveraging fine-tuned BART (Bidirectional and Auto-Regressive Transformers) to enhance accessibility of scientific knowledge in healthcare.
 
+<p align="center">
+  <img src="UI.jpg" width="50%">
+</p>
+
 ## 🎯 Project Overview
 
 This project addresses the challenge of information overload in biomedical literature by developing a transformer-based NLP pipeline that generates concise, structured abstracts from long-form medical research articles. The solution demonstrates practical application of Large Language Models (LLMs) in healthcare contexts while showcasing responsible AI development practices.
